@@ -9,6 +9,9 @@ github.com/oktat/tan
 System.out.println()
 Scanner scanner = new Scanenr()
 
+https://github.com/suli2023/II-2-N/
+
+
 class Valami {
   public void osszead(){
       //csinálok valamit
@@ -90,4 +93,15 @@ dev/
   `-sa/
 
 allatok
+
+.gitignore
+git init
+git status -u
+git add .
+git commit -m "Kezdés"
+
+Mi az a Java prog. könyvtár.
+
+
+
 
