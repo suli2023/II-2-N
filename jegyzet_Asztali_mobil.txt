@@ -1,0 +1,93 @@
+Asztali és mobil alkalmazások fejelsztése és tesztelése
+
+===================
+
+2023-09-05
+
+github.com/oktat/tan
+
+System.out.println()
+Scanner scanner = new Scanenr()
+
+class Valami {
+  public void osszead(){
+      //csinálok valamit
+  }
+}
+
+//Mit követelek
+interface Jarmu {
+  public String halad();
+  public void tankol(String tank, int mennyiseg);
+}
+
+class JarmuMegvalositas implements Jarmu {
+  public String halad() {
+      return "megy...";
+  }
+  public void tankol(String tank, int mennyiseg) {}
+}
+
+class App {
+  JarmuMegvalositas jarmu1 = new JarmuMegvalositas();
+  String uzenet = jarmu1.halad()
+  System.out.println(uzenet);
+}
+
+
+  String uzenet = jarmu1.halad();
+  System.out.println(uzenet);
+ 
+  System.out.println(jarmu1.halad());
+
+System.out.println()
+
+class Valami {
+  
+  public void out() {};
+
+}
+
+class Maci {
+  String name;
+  int age;
+  double health;
+}
+Mező, adattag
+
+class Maci {
+  String name;
+  int age;
+  double health;
+  public void megy() {
+    System.out.println("Megyek...");
+  }
+  public void hangotad() {
+    System.out.println("Brummmm...");
+  }
+}
+
+class App {
+  public static void main(String[] args) {
+
+  }  
+}
+-------
+
+class Allat {
+  public void hangotad() {
+    System.out.println("Brummmm...");
+  }
+}
+class Cat extends Allat {}
+
+Cat mici = new Cat();
+mici.hangotad();
+
+VSCode
+
+dev/
+  `-sa/
+
+allatok
+
