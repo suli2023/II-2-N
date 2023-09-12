@@ -108,5 +108,70 @@ Mi az a Java prog. könyvtár.
 2023-09-07
 
 
+===================
+
+2023-09-12
+
+Szerda: Holnap online feladatok
+
+__Szelekciós tevékenység__
+
+# Python
+if feltétel :
+  pass
+
+//Java
+if (feltétel) {
+    ;
+}
+
+if() 
+  utasíts;
+
+Feladat 0410
+
+osztas/
+  |-src/
+     `-App.java
+
+Szel.java
+__Istmélés__
+
+for()
+while()
+
+   //kezdő érték     feltétel     növekmény
+for( int i=0      ;   i<5       ;   i=i+1          ) {
+  System.out.println("aaa");
+}
+
+
+i+=1
+i++
+++i
+
+int a = 3;
+int b = a++;
+System.out.println(b);
+System.out.println(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
