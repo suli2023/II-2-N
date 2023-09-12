@@ -156,6 +156,11 @@ System.out.println(b);
 System.out.println(a);
 
 
+Legközelebb:
+Bekérés végjelig
+Sztringkezelés
+Fájlkezelés
+
 
 
 
